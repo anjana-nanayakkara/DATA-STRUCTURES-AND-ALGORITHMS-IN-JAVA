@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7102bee7-fec4-4387-aac4-f881bf3d98b1" name="Changes" comment="">
+    <list default="true" id="cd508f3e-b100-47dc-98e7-236a5aa2c3cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Array/out/production/DSA in Java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/.idea/DSA in Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/ArrayBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/ArrayElementDelete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/ArrayElementInsert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/out/production/DSA in Java/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayElementDelete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayElementInsert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2eagpUPSeUyyKEQVDcAfukW1lRC" />
+  <component name="ProjectId" id="2edMh7rAyAdm2oBzXzM3FqnIwk1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -32,34 +51,41 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/CODING/DSA in Java/Array"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="ArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayBasic" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="DSA in Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayElementDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayElementDelete" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeapSort" />
       <module name="DSA in Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayElementInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayElementInsert" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
       <module name="DSA in Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="DSA in Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="DSA in Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,21 +93,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ArrayElementDelete" />
-        <item itemvalue="Application.ArrayElementInsert" />
-        <item itemvalue="Application.ArrayBasic" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7102bee7-fec4-4387-aac4-f881bf3d98b1" name="Changes" comment="" />
-      <created>1712148285827</created>
+      <changelist id="cd508f3e-b100-47dc-98e7-236a5aa2c3cb" name="Changes" comment="" />
+      <created>1712230117171</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712148285827</updated>
+      <updated>1712230117171</updated>
     </task>
     <servers />
   </component>
